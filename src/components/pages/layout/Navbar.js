@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div>
-        <h2>Login</h2>
+        <h2>Minha Claro</h2>
       </div>
       <ul>
           <>
